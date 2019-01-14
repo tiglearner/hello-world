@@ -1,5 +1,5 @@
 # Hello, world!
-This is a basic public repository by tiglearner to share ideas, thoughts, and discussions concerning code and software development. All work disclosed and published here should be open-source.
+This is a basic public repository by tiglearner to share ideas, thoughts, and discussions concerning code and software development. All work hereby disclosed and/or published should be open-sourced.
 
 --
 01010111 01100101 01101100 01100011 01101111 01101101 01100101 00100000 01110100 01101111 00100000 01110100 01101000 01100101 00100000 01110010 01100101 01100001 01101100 01101101 01110011 00100000 01101111 01100110 00100000 01110100 01101001 01100111 01101100 01100101 01100001 01110010 01101110 01100101 01110010 00100001
